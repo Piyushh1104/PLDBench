@@ -50,6 +50,7 @@ BMC Bioinformatics
 ## DOI
 
 https://doi.org/10.1186/s12859-018-2449-y
+https://doi.org/10.5281/zenodo.20137312
 
 ## Source Paper
 
